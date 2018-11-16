@@ -7,7 +7,7 @@ In the project directory, you can run:
 ### `Run App : Follow these commands`
 
 1. 'npm install'
-2. 'REACT_APP_SECRET_CODE=<client code> npm start'      OR    save   'REACT_APP_SECRET_CODE=<client code>' in .env file at root and run 'npm start'
+2. 'REACT_APP_SECRET_CODE=%client code% npm start'      OR    save   'REACT_APP_SECRET_CODE=%client_code%' in .env file at root and run 'npm start'
 
 
 
